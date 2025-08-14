@@ -11,7 +11,7 @@ public class MethodsExample {
     }
 
     public static void main(String[] args) {
-        greetUser("Manish"); // Call method with argument
+        greetUser("Jack"); // Call method with argument
 
         int sum = addNumbers(5, 7); // Call method and store result
         System.out.println("Sum: " + sum);
